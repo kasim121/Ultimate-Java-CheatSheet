@@ -1,1 +1,80 @@
+1.Classess
+
+Introduction
+Classes and Object
+Creating Classes
+Creating Objects
+Memory Allocation
+Procedural Programmming
+Encapsulation
+Setters and Getters
+Abstraction
+Coupling
+Reducing Coupling
+Constructors
+Method Overloading
+Constructors Overloading
+Static Members
+Summary 
+
+2.Refactoring
+
+Introduction
+what Classes Do We Need
+Extracting the Console Class
+Overloading Methods
+Extracting the MortgageReport Class
+Extracting the MortgageCalculator Class
+Moving Away from Static members
+Moving Static Fields
+Extracting Duplicate Logic 
+Extracting getRemainingBalances
+One Last Touch
+
+3.Inheritance
+
+Introduction
+Inheritance
+The Object Classes
+Constructors and Inheritance
+Access Modifier
+Overriding Methods
+Upcasting and Downcasting
+Comparing Objectects
+Polymorphism
+Abstract  Classes  and Methods
+Final Class and Methods
+Final Class and Methods
+Deep Inheritance and Hirarchies
+Multiple Inheritance
+Summary 
+
+4.Interface
+
+Introduction
+What are Interfaces
+Tightly Coupled Code
+Creating an Interface
+Dependency Injection
+Constructor Injection
+Setter Injection
+Method Injection
+Interface Segregation
+Project MyYoutube Video Platform
+Solution
+Fields
+Static Methods
+Private Methods
+Interface and Abstract Classes
+When to use Interfaces
+ 
+
+ 
+ 
+
+
+
+
+
+
 
