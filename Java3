@@ -1,1 +1,91 @@
+1. Exceptions
 
+Introduction
+What is Exception
+Types of Exception
+Exceptions Hierarchy
+Catching Exception
+Catching Multiple Types of Exceptions
+The Finally block
+The try-with-resources Statement
+Throwing Exceptions
+Re-throwing Exceptions
+Chanining Exceptions
+Summary
+ 
+ 2. Generics
+ 
+ Introduction
+ The Need forGenerics
+ A Poor Solution
+ Generic Classes
+ Generics and Primitve Types
+ Constraints 
+ Type Erasure
+ Comparable Interface
+ Generic Methods
+ Multiple Type Parameters
+ Generic Classes and Interface
+ Wildcards
+ Summary
+ 
+ 3. Collecton
+ 
+ Introduction
+ Overview of Collections Framework 
+ The Need for Iterables
+ The Iterable Interface
+ The Iterator Interface
+ The Collection Interface
+ The List Interface
+ The Comparable Interface
+ The Comparator Interface 
+ The Queue Interface
+ The Set Interface
+ Hash Table
+ The Map Interface
+ Summary
+ 
+ 4. Lamda and Functional Interface 
+ 
+Introduction 
+Functional Interfaces
+Annonymous Classes
+Lamda Expressions
+Variable Capture
+Method Reference
+Built-in Functional Interfaces
+The Consumer Interface 
+Chaining Consumer
+The Supplier Interface
+The Function interface
+Combining Predicates
+The Binary Operator Interface
+Summary
+
+5.Stream
+
+Introduction
+Imperative vs Functional Programming
+Creating a Stream
+Mapping Elements
+Filtering Elements
+Slicing Streams
+Sorting Streams
+Getting Unique Elements
+Peeking Elements
+Simple Reducers
+Reducing a Stream
+Collectors
+Grouping Elements
+Partioning Elements
+Primitive Type Streams
+Summary
+
+
+
+
+ 
+ 
+ 
+ 
